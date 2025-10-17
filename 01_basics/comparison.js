@@ -81,5 +81,5 @@ always use strict equality (===) or explicit conversion.
 
 // strict check is === (it checks not only value but its datatypes also)
 
-console.log(undefined >= 0);
+console.log(undefined >= 0); // js try to convert undefined to number (Number(undefined) → NaN)
 console.log(undefined >= 1);
