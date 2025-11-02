@@ -9,6 +9,3 @@ console.log(courseInstructor);
 
 // const { courseInstructor: instructor } = course;
 // console.log(instructor);
-
-
-const navbar
